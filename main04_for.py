@@ -7,5 +7,3 @@ for x in fruits:
 
 for k in range(5,0,-1):
     print(k**2)
-
-print("конец программы")
